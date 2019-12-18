@@ -1,0 +1,6 @@
+Training images link:
+    https://drive.google.com/open?id=13oqYm5rg943vjO0bWfHN5hqC-zTXYof-
+Testing images link:
+    https://drive.google.com/open?id=10ARWBRgXpA7pWPGHJzp7oHhTRc9pcAa6   
+Validation images link:
+    https://drive.google.com/open?id=1Olv8Oleqcxrp-Tf9bQ1paqI35ux_h4eJ
