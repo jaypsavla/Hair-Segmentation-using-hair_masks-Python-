@@ -1,0 +1,4 @@
+Training Masks: 
+    https://drive.google.com/open?id=1yMSKHLy51uWJqSNifW-BshFoLMjXS8m_
+Vaidation Masks: 
+    https://drive.google.com/open?id=1ZFkxzIKcZFkd0i-xZA2a-lNQVlYQduD7
